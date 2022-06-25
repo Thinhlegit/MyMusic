@@ -1,14 +1,14 @@
 # MyMusic
 IS207.M22.TMCL-UIT
 ## Sơ đồ chức năng
-•	Những thao tác cơ bản của trình phát nhạc. 
-•	Xuất được video và thao tác các chức năng thường có trên các web.
-•	Cho phép trình phát nhạc theo playlist tự tạo. 
-•	Lọc các bài hát theo album, ca sĩ. 
-•	Đăng kí, đăng nhập người dùng và lưu vào csdl. 
-•	Có trang manage quản lí các playlist.
-•	Có chức năng riêng dành cho người dùng đăng nhập.
-![image](https://user-images.githubusercontent.com/91186202/175766466-f3c6835a-10cd-458e-9bc9-e66e128d7917.png)
+Những thao tác cơ bản của trình phát nhạc. 
+Xuất được video và thao tác các chức năng thường có trên các web.
+Cho phép trình phát nhạc theo playlist tự tạo. 
+Lọc các bài hát theo album, ca sĩ. 
+Đăng kí, đăng nhập người dùng và lưu vào csdl. 
+Có trang manage quản lí các playlist.
+Có chức năng riêng dành cho người dùng đăng nhập.
+![image](https://user-images.githubusercontent.com/91186202/175767217-0f4bde27-1489-4bc2-9b3e-e155b9e5bd7c.png)
 ## Giao diện máy tính 
 1. Trang cá nhân
 ![image](https://user-images.githubusercontent.com/91186202/175766896-f7006443-eaba-4756-8ec5-67f501b71bb0.png)
