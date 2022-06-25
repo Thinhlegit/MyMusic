@@ -1,5 +1,5 @@
 # MyMusic
-IS207.M22.TMCL-UIT
+
 ## Sơ đồ chức năng
 Những thao tác cơ bản của trình phát nhạc. 
 Xuất được video và thao tác các chức năng thường có trên các web.
