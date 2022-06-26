@@ -1,13 +1,13 @@
 # MyMusic
 
 ## Sơ đồ chức năng
-Những thao tác cơ bản của trình phát nhạc. 
-Xuất được video và thao tác các chức năng thường có trên các web.
-Cho phép trình phát nhạc theo playlist tự tạo. 
-Lọc các bài hát theo album, ca sĩ. 
-Đăng kí, đăng nhập người dùng và lưu vào csdl. 
-Có trang manage quản lí các playlist.
-Có chức năng riêng dành cho người dùng đăng nhập.
+##### Những thao tác cơ bản của trình phát nhạc. 
+##### Xuất được video và thao tác các chức năng thường có trên các web.
+##### Cho phép trình phát nhạc theo playlist tự tạo. 
+##### Lọc các bài hát theo album, ca sĩ. 
+##### Đăng kí, đăng nhập người dùng và lưu vào csdl. 
+##### Có trang manage quản lí các playlist.
+##### Có chức năng riêng dành cho người dùng đăng nhập.
 ![image](https://user-images.githubusercontent.com/91186202/175767217-0f4bde27-1489-4bc2-9b3e-e155b9e5bd7c.png)
 ## Giao diện máy tính 
 1. Trang cá nhân
