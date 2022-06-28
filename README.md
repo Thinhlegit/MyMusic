@@ -18,7 +18,6 @@ Trình phát từng bản nhạc trong trang
 ![image](https://user-images.githubusercontent.com/91186202/175766943-be06d096-ddde-46a5-936d-7eabb3d9713d.png)
 3. Trang thể loại
 ![image](https://user-images.githubusercontent.com/91186202/175766951-fdd43639-f7a9-4b09-94b2-217d00e98df0.png)
-![image](https://user-images.githubusercontent.com/91186202/175766956-3cd09a50-3c78-4fad-9440-06b235de8033.png)
 4. Trang Music Video
 ![image](https://user-images.githubusercontent.com/91186202/175766967-24d648fd-52aa-4990-bb0f-408bf8f7c4bf.png)
 ## Đăng Ký & Đăng Nhập
